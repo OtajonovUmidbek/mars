@@ -1,4 +1,5 @@
 hello 
 done login
 Password
+logout
 world
